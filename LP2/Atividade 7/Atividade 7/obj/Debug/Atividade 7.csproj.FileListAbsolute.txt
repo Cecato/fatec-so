@@ -1,0 +1,28 @@
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe.config
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\bin\Debug\Atividade 7.pdb
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csprojAssemblyReference.cache
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form1.resources
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Properties.Resources.resources
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.GenerateResource.cache
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade 7.exe
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade 7.pdb
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form2.resources
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form3.resources
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form4.resources
+C:\Users\Proprietário\source\repos\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form5.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe.config
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\bin\Debug\Atividade 7.exe
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\bin\Debug\Atividade 7.pdb
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form1.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form2.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form3.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form4.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Form5.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade_7.Properties.Resources.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade 7.exe
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Rascunho\Atividade 7\Atividade 7\obj\Debug\Atividade 7.pdb

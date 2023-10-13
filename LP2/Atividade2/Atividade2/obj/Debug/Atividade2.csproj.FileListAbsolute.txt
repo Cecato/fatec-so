@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\gusta\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\gusta\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.frmCalculadora.resources
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.Properties.Resources.resources
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.pdb
+C:\Users\gusta\source\repos\Atividade2\Atividade2\bin\Debug\zu-ZA\Atividade2.resources.dll
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.frmCalculadora.zu-ZA.resources
+C:\Users\gusta\source\repos\Atividade2\Atividade2\obj\Debug\zu-ZA\Atividade2.resources.dll

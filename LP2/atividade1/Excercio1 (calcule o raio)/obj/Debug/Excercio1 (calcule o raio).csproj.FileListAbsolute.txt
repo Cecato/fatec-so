@@ -1,0 +1,20 @@
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\bin\Debug\Excercio1 (calcule o raio).exe.config
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\bin\Debug\Excercio1 (calcule o raio).exe
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\bin\Debug\Excercio1 (calcule o raio).pdb
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1__calcule_o_raio_.Form1.resources
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1__calcule_o_raio_.Properties.Resources.resources
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).exe
+C:\Users\Lucas\source\repos\Excercio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).pdb
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\bin\Debug\Excercio1 (calcule o raio).exe.config
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\bin\Debug\Excercio1 (calcule o raio).exe
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\bin\Debug\Excercio1 (calcule o raio).pdb
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1__calcule_o_raio_.Form1.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1__calcule_o_raio_.Properties.Resources.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).exe
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Excercicio1 (calcule o raio)\Excercio1 (calcule o raio)\obj\Debug\Excercio1 (calcule o raio).pdb

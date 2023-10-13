@@ -1,0 +1,10 @@
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\bin\Debug\Atividade4.exe.config
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\bin\Debug\Atividade4.exe
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\bin\Debug\Atividade4.pdb
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.Form1.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.Properties.Resources.resources
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.exe
+C:\Users\gusta\Desktop\Fatec\2Semestre\LP2\Atividade4\Atividade4\Atividade4\obj\Debug\Atividade4.pdb
